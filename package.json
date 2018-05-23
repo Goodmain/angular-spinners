@@ -1,6 +1,6 @@
 {
   "name": "@chevtek/angular-spinners",
-  "version": "5.1.2",
+  "version": "6.0.3",
   "description": "Easy loading spinner management for apps running Angular 2+",
   "main": "dist/bundles/angular-spinners.umd.js",
   "module": "dist/index.js",
@@ -32,19 +32,19 @@
   },
   "homepage": "https://github.com/chevtek/angular-spinners#readme",
   "dependencies": {
-    "@angular/common": ">=4.2.4",
-    "@angular/core": ">=4.2.4",
+    "@angular/common": "6.0.3",
+    "@angular/core": "6.0.3",
     "reflect-metadata": "^0.1.10",
-    "rxjs": "^5.4.1",
-    "zone.js": "^0.8.12"
+    "rxjs": "^6.2.0",
+    "zone.js": "~0.8.26"
   },
   "devDependencies": {
-    "@angular/compiler": ">=4.2.4",
-    "@angular/compiler-cli": ">=4.2.4",
+    "@angular/compiler": "6.0.3",
+    "@angular/compiler-cli": "6.0.3",
     "copyfiles": "^1.2.0",
     "rimraf": "^2.6.1",
     "rollup": "^0.43.0",
-    "typescript": "^2.3.4",
+    "typescript": "2.7.2",
     "uglify-js": "^3.0.20"
   }
 }
